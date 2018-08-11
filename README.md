@@ -8,3 +8,6 @@ All you need is to [NumVerify](https://numverify.com/documentation) website and 
 In Odoo, Navigate to `Website > Configuration > Settings`, check "Enable VerifyNum" and add API Access Key.
 
 When a customer add his own details in the checkout form it will check if the Phone Number and the country are matching. If not, an error will be raised with a description about what went wrong so that the customer can fix it before proceeding with the checkout process.
+
+##### Video on YouTube
+[Odoo NumVerify Integration](https://youtu.be/XPObGqy7dac)
